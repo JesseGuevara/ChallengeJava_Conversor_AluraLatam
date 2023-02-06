@@ -4,8 +4,6 @@
 
 Este es un programa de Java que extiende la clase JFrame para crear una interfaz gráfica de usuario. La aplicación permite al usuario elegir entre dos conversores: *Conversor de divisas y Conversor de temperatura.*
 
----
-
 ## 2. FUNCIÓN
 
 ### Ventana Principal
@@ -21,19 +19,20 @@ Al seleccionar la primera opción se abre una nueva ventana (Convertidor de Divi
 
 Contiene dos campos de texto para ingresar el monto a convertir y dos JComboBox para elegir la moneda de base y la moneda a convertir.
 
-![Ventana Principal](/capturas/divisas.png "Ventana Principal")
+![Ventana Principal](/capturas/divisas.png "Conversor de Divisas")
 
 Contiene dos botones, uno para **CONVERTIR** y otro para **REGRESAR** a la ventana principal.
 
 ### Convertidor de Temperatura
 Al seleccionar la segunda opción se abre una nueva ventana (Convertidor de Temperatura) que permite convertir entre tres unidades de temperatura: *Celsius, Fahrenheit y Kelvin*.
 
-![Ventana Principal](/capturas/temperatura.png "Ventana Principal")
+![Ventana Principal](/capturas/temperatura.png "Conversor de Temperatura")
 
 Interfaz gráfica de usuario (GUI) amigable y fácil de usar.
 Valida y muestra un mensaje de error si el usuario ingresa una cantidad inválida.
 
 ---
+
 ## 4. PERSONALIZACIÓN
 
 El proyecto puede ser personalizado para incluir más monedas o cambiar el diseño de la interfaz de usuario. Esto se puede lograr modificando el código fuente y recompilando el proyecto.
