@@ -19,5 +19,5 @@ Al presionar el botón "Cerrar", se muestra un cuadro de diálogo de confirmaci�
 
 
 ---
-> Nota: Aunque este proyecto es funcional, hay muchas áreas en las que se puede hacer mejoras futuras como añadir una API que a datos en tiempo real.
+> Nota: Aunque este proyecto es funcional, hay muchas áreas en las que se puede hacer mejoras futuras como añadir una API que sacceda a datos en tiempo real.
  
