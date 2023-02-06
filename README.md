@@ -43,6 +43,9 @@ Ejecute la clase principalframe para iniciar la aplicación.
 
 ## 4. PERSONALIZACIÓN
 
-El proyecto puede ser personalizado para incluir más monedas o cambiar el diseño de la interfaz de usuario. Esto se puede lograr modificando el código fuente y recompilando el proyecto.
+El proyecto puede ser personalizado para incluir más funciones o cambiar el diseño de la interfaz de usuario. Esto se puede lograr modificando el código fuente y recompilando el proyecto.
 
 > Nota: Aunque este proyecto es funcional, hay muchas áreas en las que se puede hacer mejoras futuras como añadir una API que añada datos en tiempo real.
+
+ **Insignia Exclusiva del Desafío**
+ ![Insignia del desafío](/capturas/https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1671211831Prancheta_8.png?utm_campaign=alura_latam_-_challenge_email_projeto_5_esp&utm_medium=email&utm_source=RD+Station "Insignia del desafío")
