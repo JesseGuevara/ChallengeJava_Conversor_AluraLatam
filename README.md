@@ -16,8 +16,25 @@ Al presionar el botón "Cerrar", se muestra un cuadro de diálogo de confirmaci�
 
 ![Ventana Principal](/capturas/cerrar.png "Ventana Principal")
 ### Convertidor Divisas
+Al seleccionar la primera opción se abre una nueva ventana (Convertidor de Divisas) que permite convertir una cantidad de una moneda a otra, elegida por el usuario, de una lista de seis monedas disponibles.
 
+Contiene dos campos de texto para ingresar el monto a convertir y dos JComboBox para elegir la moneda de base y la moneda a convertir.
+
+![Ventana Principal](/capturas/divisas.png "Ventana Principal")
+
+Contiene dos botones, uno para **CONVERTIR** y otro para **REGRESAR** a la ventana principal.
+
+### Convertidor de Temperatura
+Al seleccionar la segunda opción se abre una nueva ventana (Convertidor de Temperatura) que permite convertir entre tres unidades de temperatura: *Celsius, Fahrenheit y Kelvin*.
+
+![Ventana Principal](/capturas/temperatura.png "Ventana Principal")
+
+Interfaz gráfica de usuario (GUI) amigable y fácil de usar.
+Valida y muestra un mensaje de error si el usuario ingresa una cantidad inválida.
 
 ---
-> Nota: Aunque este proyecto es funcional, hay muchas áreas en las que se puede hacer mejoras futuras como añadir una API que sacceda a datos en tiempo real.
- 
+## 4. PERSONALIZACIÓN
+
+El proyecto puede ser personalizado para incluir más monedas o cambiar el diseño de la interfaz de usuario. Esto se puede lograr modificando el código fuente y recompilando el proyecto.
+
+> Nota: Aunque este proyecto es funcional, hay muchas áreas en las que se puede hacer mejoras futuras como añadir una API que a datos en tiempo real.
