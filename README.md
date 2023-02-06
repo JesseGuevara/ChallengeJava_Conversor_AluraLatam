@@ -37,4 +37,4 @@ Valida y muestra un mensaje de error si el usuario ingresa una cantidad inválid
 
 El proyecto puede ser personalizado para incluir más monedas o cambiar el diseño de la interfaz de usuario. Esto se puede lograr modificando el código fuente y recompilando el proyecto.
 
-> Nota: Aunque este proyecto es funcional, hay muchas áreas en las que se puede hacer mejoras futuras como añadir una API que a datos en tiempo real.
+> Nota: Aunque este proyecto es funcional, hay muchas áreas en las que se puede hacer mejoras futuras como añadir una API que añada datos en tiempo real.
