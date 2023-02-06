@@ -5,6 +5,7 @@
 Este es un programa de Java que extiende la clase JFrame para crear una interfaz gráfica de usuario. La aplicación permite al usuario elegir entre dos conversores: *Conversor de divisas y Conversor de temperatura.*
 
 ---
+
 ## 2. FUNCIÓN
 
 ### Ventana Principal
